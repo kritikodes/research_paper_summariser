@@ -1,4 +1,4 @@
-# Research Paper Summarizer 🧪📄
+# Research Paper Summarizer 📄
 
 A modern, user-friendly app to summarize research papers and academic texts with beautiful, topic-aware output. Built with Gradio and Hugging Face Transformers.
 
