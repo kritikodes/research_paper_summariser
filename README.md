@@ -1,4 +1,4 @@
-# Research Paper Summarizer 📄
+# Research Paper Summarizer 🧪📄
 
 A modern, user-friendly app to summarize research papers and academic texts with beautiful, topic-aware output. Built with Gradio and Hugging Face Transformers.
 
@@ -19,8 +19,8 @@ A modern, user-friendly app to summarize research papers and academic texts with
 
 ### 1. Clone the repository
 ```bash
-git clone <repo-url>
-cd Research_Summary
+git clone https://github.com/kritikodes/research_paper_summariser.git
+cd research_paper_summariser
 ```
 
 ### 2. Install dependencies
@@ -75,3 +75,9 @@ Feel free to open issues or submit pull requests for improvements!
 
 ## 📃 License
 MIT License
+
+---
+
+## 🔗 Repository
+
+[https://github.com/kritikodes/research_paper_summariser/](https://github.com/kritikodes/research_paper_summariser/)
