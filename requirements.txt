@@ -1,0 +1,6 @@
+transformers
+gradio
+torch
+PyMuPDF
+sentence-transformers
+scikit-learn
